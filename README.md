@@ -1,4 +1,4 @@
-# 🏥 Hospital Admissions Dashboard | Power BI
+# 🏥 Hospital Admissions SummaryDashboard | Power BI
 
 ---
 ## 📌 Overview
