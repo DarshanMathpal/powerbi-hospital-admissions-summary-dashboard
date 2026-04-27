@@ -55,6 +55,6 @@ https://github.com/user-attachments/assets/77ea753f-13b9-4489-b93f-89061bb72a08
 2. Open in Power BI Desktop
 3. Explore visuals and interact with filters
 
---
+---
 ⭐  If you found this project helpful or interesting, consider giving it a star on GitHub.
 
